@@ -1,5 +1,5 @@
 # demo-git
 this is a demo project to know github.
 <br>
-Author- Sumit
+Author- Sumit K dhal
 
